@@ -1,0 +1,18 @@
+div{
+
+   background: #8080ff;
+	margin:auto;
+	width:700px;
+	top:20%;
+	filter:opacity(96%);
+	font-family: 'Questrial', sans-serif;
+	font-size: 13px;
+	border-radius:12px;	
+	margin-top:70px;
+}
+body{
+	background-color: #808080;
+	background-repeat: no-repeat;
+	background-size: cover;
+	 background-blend-mode: screen;
+	}
